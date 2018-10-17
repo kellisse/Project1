@@ -42,6 +42,8 @@ a{
 }
 #footer{
 	clear: both;
+	padding: 10px;
+	background-color: #999999;
 }
 h1, h2, h3 {
     color: white;
