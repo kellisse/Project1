@@ -11,15 +11,16 @@ a{
 	color:#C6CBD2;
 }
 #container{
-	background-color:#7A8392;
+	background-color:#7E8692;
 	width: 1500px;
 	margin-right: auto;
 	margin-left: auto;
 }
 #header {
-	background-color: #7A8392;
+	background-color: #5E6776;
 	color white;
 	text-align:center;
+	padding: 10px;
 }
 #content{
 	padding: 50px;
@@ -44,6 +45,7 @@ a{
 	clear: both;
 	padding: 10px;
 	background-color: #999999;
+	text-align: right
 }
 h1, h2, h3 {
     color: white;
