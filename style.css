@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box; 
+}
+body{
+	background-color:#6C7B91;
+}
+header {
+	background-color: blue;
+	color; white;
+}
