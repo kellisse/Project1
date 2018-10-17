@@ -22,3 +22,10 @@ body{
 #nav {
 	width:300px;
 }
+#main{
+	width:1000px;
+	float: right;
+}
+#footer{
+	clear: both;
+}
