@@ -5,7 +5,10 @@ body{
 	background-color:#9AA1AC;
 	color:white;
 }
-header {
-	background-color: blue;
+#container{
+	background-color:#7A8392;
+}
+#header {
+	background-color: #7A8392;
 	color white;
 }
