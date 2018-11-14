@@ -142,14 +142,33 @@ p {
   border-radius : 20px; 
 }
 /* resume page */
+#header2 {
+	background-color: #5E6776;
+	color:white;
+	text-align:center;
+	padding:30px;
+	font-size:25px;
+	padding-top:80px;
+}
 .res{
   margin-right:20px;
   margin-left:20px;
-  background-color:rgba( 255, 255, 255, 0.8 );	
+  background-color:rgba( 255, 255, 255, 0.3);	
   text-align:right;
   padding-right:10px;
   font-family:'koho';
   font-size:20px;
   border:2px solid white;
   line-height:2.0em;  
+}
+.res1{
+  margin-right:20px;
+  margin-left:20px;
+  padding-left:10px;
+  margin-top:0;
+  border:2px solid white;
+  background-color:rgba( 255, 255, 255, 0.3 );
+  font-family:'koho';
+  font-size:20px;
+  line-height:2.0em;
 }
