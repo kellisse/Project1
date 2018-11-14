@@ -32,6 +32,7 @@ a{
 	color:white;
 	text-align:center;
 	padding: 10px;
+	font-size: 20px;
 }
 #content{
 	padding: 50px;
@@ -39,8 +40,11 @@ a{
 #nav ul{
 	list-style-type: none;
 	padding: 0px; 
-	text-align:center;
 	font-size: 17px;
+	text-align: center;
+}
+#nav a {
+	text-align: center;
 }
 #nav {
 	width:200px;
@@ -48,9 +52,34 @@ a{
 	text-align: center;
 	color:#C6CBD2;
 }
-.selected{
-	font-weight: bold;
+/* Index page 
+*/
+#navmain {
+  background-color:#C6CBD2;
+  height:50px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
+#navmain  a{
+  display: block; 
+  text-align: center; 
+  align-content:center;
+  padding: 10px 50px;
+  text-decoration:none; 
+  font-family: 'Copperplate';
+  font-size: 30px;
+  color:white;
+}
+#navmain ul{
+  margin:0;
+  text-align:center;
+}
+#navmain li{
+  display: inline-block;
+}
+/* Everything */
 .two{
 	font-weight: bold;
 }
